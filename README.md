@@ -22,7 +22,7 @@ ISTQB-certified with a track record of measurable impact — reducing production
 
 - 💳 Currently @ **Connect Money** — Senior Software Tester at a Cairo-based embedded fintech startup (payments, KYC, white-label card issuance)
 - 🛒 Previously @ **Raneen** — Led QA for an e-commerce platform with 2M+ monthly active users
-- 🏥 Previously @ **Monita / Lumina (IHG Mental Health)** — Senior Software Tester on a regulated Next.js + .NET patient onboarding & practitioner portal on Azure (UK South); RSC payload inspection, Jam session analysis, PHI leakage testing, RBAC, clinical safety
+- 🏥 Previously @ **Monita / Lumina (IHG Mental Health)** — Senior Software Tester on a regulated Next.js + .NET patient onboarding & practitioner portal; RSC payload inspection, Jam session analysis, PHI leakage testing, RBAC, clinical safety
 - 🏢 Previously @ **Eram Group** & **Spark Systems** — automation frameworks, CI/CD integration, API testing
 
 ---
